@@ -1,0 +1,14 @@
+simple:
+  # needs params: lecturer, date_pl_formatted, location, abstract, title, scope_pl
+  template: true
+  duration: 2h
+  schema: |
+    Cześć!
+    Zapraszamy was na kolejną prelekcję!
+    📌 Tytuł: {title}
+    🎤 Prowadzący: {lecturer}
+    📅 Data: {date_pl_formatted}
+    📍 Miejsce: {location}
+    W czasie wykładu poznamy:
+    {scope_pl}
+    Po wydarzeniu zapraszamy na integrację do Filutka!

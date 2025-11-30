@@ -1,0 +1,29 @@
+kv_stores-2025-11-19:
+  templates: [simple, d10-a]
+  lecturer: Adam Balski (Splunk)
+  date_pl_formatted: 19 listopada, 19:00
+  dtstart: 2025-11-19T19:00:00
+  location: Sala A, D-10
+  url: https://www.facebook.com/events/846244948349417
+  title: Kluczowe struktury i procesy umożliwiające wydajne działanie nowoczesnych baz danych klucz-wartość
+  scope_pl: >-
+    Kluczowe struktury i procesy umożliwiające wydajne działanie 
+    nowoczesnych baz danych klucz-wartość. Skupimy się na strukturach/mechanizmach
+    takich jak append-only logs, sorted strings tables, log-structured merge trees,
+    procesach kompakcji SS tables, filtrach Blooma oraz indeksach, a także na
+    zasadach działania stosowanych w konkretnych popularnych systemach, takich
+    jak Cassandra (z perspektywy pojedynczego node'a), Bitcask (Riak),
+    Redis, LevelDB i RocksDB.
+
+starter_http_2025:
+  templates: [d10-b]
+  title: Podstawy WEB & HTTP - Kernel Starter
+  duration: 90m
+  dtstart: 2025-11-20T19:00:00
+  url: https://www.facebook.com/events/2241894366322915
+  description: |
+    🔥We're halfway there🔥
+    Zapraszamy na piąte wydarzenie z serii Kernel Starter!
+    Tak jak co tydzień spotkamy się w poniedziałek, w sali B D-10, o godzinie 19:00.
+    W tym tygodniu przedstawimy podstawy HTTP. Po tej prelekcji na pewno zrozumiecie dużo lepiej jak działa internet, z którego korzystacie na codzień. Będzie to bardzo dobry fundament pod budowanie web-aplikacji, którymi zajmiemy się już niedługo!
+    Zapraszamy!

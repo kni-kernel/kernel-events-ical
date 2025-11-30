@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KNI Kernel//EventsAutoPublisher//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wydarzenia KNI KERNEL@AGH
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VEVENT
+SUMMARY:Podstawy WEB & HTTP - Kernel Starter
+DTSTART:20251120T190000
+DTEND:20251120T203000
+DTSTAMP:20251130T160901Z
+UID:starter_http_2025@kernel-events
+DESCRIPTION:🔥We're halfway there🔥\nZapraszamy na piąte wydarzenie z
+  serii Kernel Starter!\nTak jak co tydzień spotkamy się w poniedziałek\
+ , w sali B D-10\, o godzinie 19:00.\nW tym tygodniu przedstawimy podstawy 
+ HTTP. Po tej prelekcji na pewno zrozumiecie dużo lepiej jak działa inter
+ net\, z którego korzystacie na codzień. Będzie to bardzo dobry fundamen
+ t pod budowanie web-aplikacji\, którymi zajmiemy się już niedługo!\nZa
+ praszamy!
+LOCATION:D-10\, Sala B @ AGH\, Kraków
+URL:https://www.facebook.com/events/2241894366322915
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kluczowe struktury i procesy umożliwiające wydajne działanie no
+ woczesnych baz danych klucz-wartość
+DTSTART:20251119T190000
+DTEND:20251119T210000
+DTSTAMP:20251130T160901Z
+UID:kv_stores-2025-11-19@kernel-events
+DESCRIPTION:Cześć!\nZapraszamy was na kolejną prelekcję!\n📌 Tytuł:
+  Kluczowe struktury i procesy umożliwiające wydajne działanie nowoczesn
+ ych baz danych klucz-wartość\n🎤 Prowadzący: Adam Balski (Splunk)\n
+ 📅 Data: 19 listopada\, 19:00\n📍 Miejsce: Sala A\, D-10\nW czasie wyk
+ ładu poznamy:\nKluczowe struktury i procesy umożliwiające wydajne dzia
+ łanie  nowoczesnych baz danych klucz-wartość. Skupimy się na struktura
+ ch/mechanizmach takich jak append-only logs\, sorted strings tables\, log-
+ structured merge trees\, procesach kompakcji SS tables\, filtrach Blooma o
+ raz indeksach\, a także na zasadach działania stosowanych w konkretnych 
+ popularnych systemach\, takich jak Cassandra (z perspektywy pojedynczego n
+ ode'a)\, Bitcask (Riak)\, Redis\, LevelDB i RocksDB.\nPo wydarzeniu zapras
+ zamy na integrację do Filutka!
+LOCATION:Sala A\, D-10
+URL:https://www.facebook.com/events/846244948349417
+END:VEVENT
+END:VCALENDAR
