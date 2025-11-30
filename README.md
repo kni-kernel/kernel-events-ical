@@ -96,7 +96,7 @@ Events should have either `dtstart` or `dtend`, not neither, not both. All field
 
 Add this URL to your calendar app:
 ```
-https://raw.githubusercontent.com/<your-org>/<your-repo>/refs/heads/main/artifacts/events.ical
+https://raw.githubusercontent.com/kni-kernel/kernel-events-ical/refs/heads/main/artifacts/events.ical
 ```
 
 ## Roadmap
